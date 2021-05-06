@@ -9,7 +9,7 @@
 | ✔ primitive_types      | §4.3          |
 | ✔ structs              | §5.1          |
 | ✔ enums                | §6            |
-| modules                | §7.2          |
+| ✔ modules              | §7.2          |
 | collections            | §8.1          |
 | strings                | §8.2          |
 | error_handling         | §9            |
