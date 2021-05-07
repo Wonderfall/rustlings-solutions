@@ -11,7 +11,7 @@
 | ✔ enums                | §6            |
 | ✔ modules              | §7.2          |
 | ✔ collections          | §8.1          |
-| strings                | §8.2          |
+| ✔ strings              | §8.2          |
 | error_handling         | §9            |
 | generics               | §10           |
 | option                 | §10.1         |
