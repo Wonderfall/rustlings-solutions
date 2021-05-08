@@ -12,7 +12,7 @@
 | ✔ modules              | §7.2          |
 | ✔ collections          | §8.1          |
 | ✔ strings              | §8.2          |
-| error_handling         | §9            |
+| ✔ error_handling       | §9            |
 | generics               | §10           |
 | option                 | §10.1         |
 | traits                 | §10.2         |
