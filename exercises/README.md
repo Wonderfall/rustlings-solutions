@@ -15,7 +15,7 @@
 | ✔ error_handling       | §9            |
 | ✔ generics             | §10           |
 | ✔ option               | §10.1         |
-| traits                 | §10.2         |
+| ✔ traits               | §10.2         |
 | tests                  | §11.1         |
 | standard_library_types | §13.2         |
 | threads                | §16.1         |
